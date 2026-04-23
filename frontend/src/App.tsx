@@ -68,7 +68,7 @@ export default function App() {
       >
         <div>
           <h1 style={{ fontSize: 24, fontWeight: 700, color: '#1e293b' }}>
-            🎙 Speechify Dashboard
+            🎙 audio Dashboard
           </h1>
           <p style={{ color: '#64748b', fontSize: 14, marginTop: 2 }}>
             Text-to-speech job management

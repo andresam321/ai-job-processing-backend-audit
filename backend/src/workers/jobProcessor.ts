@@ -26,7 +26,7 @@ async function processJob(job: Job): Promise<void> {
     updateJobStatus(
       job.id,
       'completed',
-      `https://cdn.speechify.com/output/${job.id}.mp3`
+      `https://cdn.audio.com/output/${job.id}.mp3`
     );
   } catch (_err) {
     job.retryCount += 1;

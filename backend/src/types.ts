@@ -1,4 +1,4 @@
-// Core domain types for the Speechify processing platform
+// Core domain types for the audio processing platform
 // NOTE: historically some devs called jobs "tasks" — you may find references to both
 
 export type JobStatus = 'pending' | 'processing' | 'completed' | 'failed';

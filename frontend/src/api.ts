@@ -1,4 +1,4 @@
-// api.ts — HTTP client for the Speechify backend
+// api.ts — HTTP client for the audio backend
 
 const BASE_URL = import.meta.env.VITE_API_URL ?? 'http://localhost:3001';
 

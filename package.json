@@ -1,5 +1,5 @@
 {
-  "name": "speechify-audit",
+  "name": "audio-audit",
   "version": "1.0.0",
   "private": true,
   "scripts": {
